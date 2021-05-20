@@ -17,7 +17,14 @@
 | window | window_size | int | Maximum distance between the current and predicted word within a sentence |
 
 ## Statistics
-
+Trained with parameters 
+|**Gensim parameter**|**Value**|
+|:------:|:---------:|
+| window | 10 
+| min_count | 2
+| workers | 10
+| total_examples | len(documents)
+| epochs | 10
 ### Total training time
 
 |**CBOW**|**Skipgram**|
