@@ -1,7 +1,22 @@
 # word2vec-thesis
  A Word2vec comparative study of CBOW and Skipgram
 
-### Statistics
+## Word2vec Parametrization
+
+|**Gensim parameter**|**Tensorflow parameter**|**Type**|**Details**|
+|:------------------:|:----------------------:|:------:|:---------:|
+| alpha | learning_rate | float | The initial learning rate |
+| cbow_mean | - | boolean | 0: use the sum of the context word vectors <br/> 1: use the mean, only applies when cbow is used |
+| epochs | epochs | int | Number of iterations (epochs) over the corpus |
+| hs | - | boolean | 0: hierarchical softmax will be used for model training <br/> 1: if negative is non-zero, negative sampling will be used |
+| min_count  | min_count | int | Maximum distance between the current and predicted word within asentence |
+| negative | num_neg_samples | int | how many "noise words" should be drawn |
+| sample | subsample | float | The threshold for configuring which higher-frequency words are randomly downsampled |
+| sg | - | boolean | 0: CBOW <br/> 1: Skipgram |
+| vector_size | embedding_dim | int | Dimensionality of the word vectors |	
+| window | window_size | int | Maximum distance between the current and predicted word within a sentence |
+
+## Statistics
 
 ### Total training time
 
