@@ -7,7 +7,7 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/23742352/121664534-407e3580-cab0-11eb-9723-bf8ba8a122ac.gif"></a>
 </p>
 
-## Word2vec Parametrization
+## Word2vec Parameterization
 
 |**Gensim parameter**|**Tensorflow parameter**|**Type**|**Details**|
 |:------------------:|:----------------------:|:------:|:---------:|
