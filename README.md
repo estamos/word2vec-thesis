@@ -82,6 +82,13 @@ Trained with parameters
 ├── logs
 │   ├── cbow-log.rtf
 │   └── skipgram-log.rtf
+├── models
+│   ├── word2vec-cbow-trained.model
+│   ├── word2vec-cbow-trained.model.syn1neg.npy
+│   ├── word2vec-cbow-trained.model.wv.vectors.npy
+│   ├── word2vec-skipgram-trained.model
+│   ├── word2vec-skipgram-trained.model.syn1neg.npy
+│   └── word2vec-skipgram-trained.model.wv.vectors.npy
 ├── test
 │   ├── test.py
 └── train
