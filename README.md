@@ -79,6 +79,10 @@ Trained with parameters
 #### Tree
 ```
 .
+├── LICENSE
+├── README.md
+├── dataset
+│   └── wiki_en_corpus.txt
 ├── logs
 │   ├── cbow-log.rtf
 │   └── skipgram-log.rtf
@@ -90,7 +94,7 @@ Trained with parameters
 │   ├── word2vec-skipgram-trained.model.syn1neg.npy
 │   └── word2vec-skipgram-trained.model.wv.vectors.npy
 ├── test
-│   ├── test.py
+│   └── test.py
 └── train
     ├── cbow
     │   └── cbow.py
