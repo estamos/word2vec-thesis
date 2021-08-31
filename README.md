@@ -1,5 +1,7 @@
 # word2vec-thesis
  A Word2vec comparative study of CBOW and Skipgram
+ 
+ [Dataset](https://drive.google.com/file/d/1JnoCErcMFEfXy0i4HgOmaRsZZnf_oyz_/view?usp=sharing)
 
 ## Word2vec - CBOW & Skipgram Comparative Tool
 
