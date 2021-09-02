@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template" title="NTUA ECE Thesis LaTeX Template">
+  <a href="https://uth.gr" title="University of Thessaly">
     <img alt="University of Thessaly" src="https://www.uth.gr/sites/default/files/contents/logos/UTH-logo-english.png" width="200px" height="200px" />
   </a>
   <br />
