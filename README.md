@@ -1,13 +1,13 @@
 # word2vec-thesis
  A Word2vec comparative study of CBOW and Skipgram
  <p align="center">
-   <a href="https://drive.google.com/file/d/1jq0j6F28Lk9uUfXDL8OorfA05-vyMUHQ/view?usp=sharing">
+   <a href="https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/dataset.tar.gz">
     <img alt="Dataset" src="https://img.shields.io/badge/Wiki_corpus-Dataset-red.svg" />
   </a>
   <a href="https://github.com/estamos/word2vec-thesis/releases">
     <img alt="Releases" src="https://img.shields.io/github/v/release/estamos/word2vec-thesis" />
   </a>
-  <a href="https://drive.google.com/file/d/1JnoCErcMFEfXy0i4HgOmaRsZZnf_oyz_/view?usp=sharing">
+  <a href="https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/pre-trained-models.tar.gz">
     <img alt="Pre-trained models" src="https://img.shields.io/badge/Pre_trained-Models-orange.svg" />
   </a>
 </p>
