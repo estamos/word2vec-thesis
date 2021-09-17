@@ -23,9 +23,10 @@ Developed as a part of thesis "Big Data Analytics using Machine Learning Algorit
 ```bash
 # Download latest available release
 wget https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/word2vec-v1.1.2.tar.gz
+tar -xvf word2vec-v1.1.2.tar.gz
 cd word2vec-v1.1.2
 cp test/test.py models
-cd test
+cd models
 python test.py
 ```
 ## Word2vec - CBOW & Skipgram Comparative Tool
