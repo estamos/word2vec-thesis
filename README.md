@@ -40,8 +40,18 @@ python test.py
 ## Word2vec - CBOW & Skipgram Comparative Tool
 
 <p align='center'>
-  <a href="#"><img src="https://user-images.githubusercontent.com/23742352/121664534-407e3580-cab0-11eb-9723-bf8ba8a122ac.gif"></a>
+  <a><img alt="Word2vec - CBOW & Skipgram Comparative Tool" src="https://user-images.githubusercontent.com/23742352/121664534-407e3580-cab0-11eb-9723-bf8ba8a122ac.gif"></a>
 </p>
+
+
+## Word2vec Architecutes Performance Comparison Graphs
+
+#### Effective words per epoch
+<img alt="Effective words per epoch" src="https://user-images.githubusercontent.com/23742352/133771033-ebb0cc04-18d6-4ce4-8252-c4edac3471d5.png">
+
+#### Training time per epoch
+<img alt="Training time per epoch" src="https://user-images.githubusercontent.com/23742352/133771479-81d89382-492a-4e09-ab11-9174a053b892.png">
+
 
 ## Word2vec Parameterization
 
