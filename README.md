@@ -44,7 +44,7 @@ python test.py
 </p>
 
 
-## Word2vec Architecutes Performance Comparison Graphs
+## Word2vec Architectures Performance Comparison Graphs
 
 #### Effective words per epoch
 <img alt="Effective words per epoch" src="https://user-images.githubusercontent.com/23742352/133771033-ebb0cc04-18d6-4ce4-8252-c4edac3471d5.png">
