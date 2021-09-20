@@ -5,10 +5,10 @@
   <br />
   word2vec-thesis
   <p align="center">
-   <a href="https://TBA">
+   <a href="https://github.com/estamos/word2vec-thesis/files/7195641/Stamos_Evangelos_Thesis.pdf">
     <img alt="Thesis" src="https://img.shields.io/badge/Thesis-PDF-white.svg" />
   </a>
-  <a href="https://TBA">
+  <a href="https://github.com/estamos/word2vec-thesis/files/7195658/Stamos_Evangelos_Thesis_Presentation.pdf">
     <img alt="Thesis Presentation" src="https://img.shields.io/badge/Thesis_Presentation-PDF-lightgrey.svg" />
   </a>
 </p>
