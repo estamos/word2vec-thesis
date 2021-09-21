@@ -5,16 +5,16 @@
   <br />
   word2vec-thesis
   <p align="center">
-   <a href="https://github.com/estamos/word2vec-thesis/files/7195641/Stamos_Evangelos_Thesis.pdf">
+   <a href="https://github.com/estamos/word2vec-thesis/files/7202631/Stamos_Evangelos_Thesis.pdf">
     <img alt="Thesis" src="https://img.shields.io/badge/Thesis-PDF-white.svg" />
   </a>
-  <a href="https://github.com/estamos/word2vec-thesis/files/7195658/Stamos_Evangelos_Thesis_Presentation.pdf">
+  <a href="https://github.com/estamos/word2vec-thesis/files/7202630/Stamos_Evangelos_Thesis_Presentation.pdf">
     <img alt="Thesis Presentation" src="https://img.shields.io/badge/Thesis_Presentation-PDF-lightgrey.svg" />
   </a>
 </p>
 </h1>
 Developed as a part of thesis "Big Data Analytics using Machine Learning Algorithms" - A Word2vec comparative study of CBOW and Skipgram.
- 
+
 <p align="center">
    <a href="https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/dataset.tar.gz">
     <img alt="Dataset" src="https://img.shields.io/badge/Wiki_corpus-Dataset-red.svg" />
