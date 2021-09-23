@@ -8,7 +8,7 @@
    <a href="https://github.com/estamos/word2vec-thesis/files/7202631/Stamos_Evangelos_Thesis.pdf">
     <img alt="Thesis" src="https://img.shields.io/badge/Thesis-PDF-white.svg" />
   </a>
-  <a href="https://github.com/estamos/word2vec-thesis/files/7202630/Stamos_Evangelos_Thesis_Presentation.pdf">
+  <a href="https://github.com/estamos/word2vec-thesis/files/7215213/Stamos_Evangelos_Thesis_Presentation.pdf">
     <img alt="Thesis Presentation" src="https://img.shields.io/badge/Thesis_Presentation-PDF-lightgrey.svg" />
   </a>
 </p>
