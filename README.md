@@ -38,7 +38,7 @@ Developed as a part of thesis "Big Data Analytics using Machine Learning Algorit
 # Download latest available release
 wget https://github.com/estamos/word2vec-thesis/releases/download/final/word2vec-thesis-final.tar.gz
 tar -xvf word2vec-thesis-final.tar.gz
-cd word2vec-theis-final
+cd word2vec-thesis-final
 cp test/test.py models
 cd models
 python test.py
