@@ -41,6 +41,7 @@ tar -xvf word2vec-thesis-final.tar.gz
 cd word2vec-thesis-final
 cp test/test.py models
 cd models
+pip install gensim tabulate
 python test.py
 ```
 ## Word2vec - CBOW & Skipgram Comparative Tool
